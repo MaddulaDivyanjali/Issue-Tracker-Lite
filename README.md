@@ -1,0 +1,1 @@
+A full-stack Issue Tracker application built as a capstone project using with Spring Boot 3.3 (Backend) and Angular 18 (Frontend) for the Java + Spring + Angular 24-week bootcamp capstone. It enables secure user authentication, role-based access, and full lifecycle issue management.
